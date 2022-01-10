@@ -6,8 +6,8 @@ This repository is for Contrastive Embedding Distribution Refinement and Entropy
 ## Updates
 * **03/01/2022** The paper is currently under review, and the codes will be released in the future. 
 * **06/01/2022** codes for both ```model.py``` and ```main.py``` are available now. 
-* **10/01/2022**  Update a pre-trained model (OA: **82.90%**, mAcc: **80.60%**) on ScanObjectNN via [google drive](https://drive.google.com/file/d/1R_yzyehbVDbOUVEj6Re-q0n1CZLE5MQw/view?usp=sharing).
-* **10/01/2022** Pre-trained model (OA: **93.10%**, mAcc: **91.10%**) on ModelNet40 is available at [google drive](https://drive.google.com/file/d/1R_yzyehbVDbOUVEj6Re-q0n1CZLE5MQw/view?usp=sharing).
+* **10/01/2022**  Update a pre-trained model (OA: **82.90%**, mAcc: **80.60%**) on ScanObjectNN via [google drive](https://drive.google.com/file/d/1nEAOU9hujcUW6I2mXjTxGoWlQqZfAja6/view?usp=sharing).
+* **10/01/2022** Pre-trained model (OA: **93.10%**, mAcc: **91.10%**) on ModelNet40 is available at [google drive](https://drive.google.com/file/d/1xK8B-F6fZ7NKNWWh3EIM31gsckNUtUkQ/view?usp=sharing).
 
 
 ## Network Architecture
@@ -52,8 +52,8 @@ python main.py --exp_name=gbnet_scanobjectnn_eval --model=gbnet --dataset=ScanOb
 
 | Model            | Dataset             |#Points             | Data<br />Augmentation | Performance<br />on Test Set            | Download<br />Link   |
 |:----------------:|:-------------------:|:-------------------:|:----------:|:-------------------------------------------------------------------------------:|:------:|
-| PointNet++ | ModelNet40 | 1024 | random scaling<br />and translation | overall accuracy: **93.10%**<br />average class accuracy: **91.10%**                                 | [google drive](https://drive.google.com/file/d/1R_yzyehbVDbOUVEj6Re-q0n1CZLE5MQw/view?usp=sharing) |
-| GBNet | ScanObjectNN | 1024 | random scaling<br />and translation | overall accuracy: **82.90%**<br />average class accuracy: **80.60%**                                   | [google drive](https://drive.google.com/file/d/1R_yzyehbVDbOUVEj6Re-q0n1CZLE5MQw/view?usp=sharing) |
+| PointNet++ | ModelNet40 | 1024 | random scaling<br />and translation | overall accuracy: **93.10%**<br />average class accuracy: **91.10%**                                 | [google drive](https://drive.google.com/file/d/1nEAOU9hujcUW6I2mXjTxGoWlQqZfAja6/view?usp=sharing) |
+| GBNet | ScanObjectNN | 1024 | random scaling<br />and translation | overall accuracy: **82.90%**<br />average class accuracy: **80.60%**                                   | [google drive](https://drive.google.com/file/d/1xK8B-F6fZ7NKNWWh3EIM31gsckNUtUkQ/view?usp=sharing) |
 
 
 
