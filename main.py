@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@Author: Yue Wang, partly revised by Shi Qiu (shi.qiu@anu.edu.au)
-@Contact: yuewangx@mit.edu
+@Author: Feng yang
+@Contact: yagnfeng@seu.edu.cn
 @File: main.py
-@Time: 2018/10/13 10:39 PM
+@Time: 2022/11/13 10:39 PM
 """
 
 
