@@ -52,8 +52,8 @@ python main.py --exp_name=gbnet_scanobjectnn_eval --model=gbnet --dataset=ScanOb
 
 | Model            | Dataset             |#Points             | Data<br />Augmentation | Performance<br />on Test Set            | Download<br />Link   |
 |:----------------:|:-------------------:|:-------------------:|:----------:|:-------------------------------------------------------------------------------:|:------:|
-| PointNet++ | ModelNet40 | 1024 | random scaling<br />and translation | overall accuracy: **93.10%**<br />average class accuracy: **91.10%**                                 | [google drive](https://drive.google.com/file/d/1nEAOU9hujcUW6I2mXjTxGoWlQqZfAja6/view?usp=sharing) |
-| GBNet | ScanObjectNN | 1024 | random scaling<br />and translation | overall accuracy: **82.90%**<br />average class accuracy: **80.60%**                                   | [google drive](https://drive.google.com/file/d/1xK8B-F6fZ7NKNWWh3EIM31gsckNUtUkQ/view?usp=sharing) |
+| PointNet++ | ModelNet40 | 1024 | random scaling<br />and translation | overall accuracy: **93.1%**<br />average class accuracy: **91.1%**                                 | [google drive](https://drive.google.com/file/d/1nEAOU9hujcUW6I2mXjTxGoWlQqZfAja6/view?usp=sharing) |
+| GBNet | ScanObjectNN | 1024 | random scaling<br />and translation | overall accuracy: **82.9%**<br />average class accuracy: **80.6%**                                   | [google drive](https://drive.google.com/file/d/1xK8B-F6fZ7NKNWWh3EIM31gsckNUtUkQ/view?usp=sharing) |
 
 
 
